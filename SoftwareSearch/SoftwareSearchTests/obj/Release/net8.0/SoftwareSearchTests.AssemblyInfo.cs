@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SoftwareSearchTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+125cb597004afc8eb6a07fe763643b12a1066d37")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1dc4456f80cd531f354b623ac1fd70b74d4d1048")]
 [assembly: System.Reflection.AssemblyProductAttribute("SoftwareSearchTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SoftwareSearchTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

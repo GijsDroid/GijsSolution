@@ -1022,11 +1022,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer\\Documents\\GitHub\\case_back_end_gijs\\SoftwareSearch\\SoftwareSearchTests\\SoftwareSearchTests.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\Documents\\GitHub\\test\\SoftwareSearch\\SoftwareSearchTests\\SoftwareSearchTests.csproj",
       "projectName": "SoftwareSearchTests",
-      "projectPath": "C:\\Users\\Acer\\Documents\\GitHub\\case_back_end_gijs\\SoftwareSearch\\SoftwareSearchTests\\SoftwareSearchTests.csproj",
+      "projectPath": "C:\\Users\\Acer\\Documents\\GitHub\\test\\SoftwareSearch\\SoftwareSearchTests\\SoftwareSearchTests.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer\\Documents\\GitHub\\case_back_end_gijs\\SoftwareSearch\\SoftwareSearchTests\\obj\\",
+      "outputPath": "C:\\Users\\Acer\\Documents\\GitHub\\test\\SoftwareSearch\\SoftwareSearchTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1046,8 +1046,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Acer\\Documents\\GitHub\\case_back_end_gijs\\SoftwareSearch\\SoftwareSearch\\SoftwareSearch.csproj": {
-              "projectPath": "C:\\Users\\Acer\\Documents\\GitHub\\case_back_end_gijs\\SoftwareSearch\\SoftwareSearch\\SoftwareSearch.csproj"
+            "C:\\Users\\Acer\\Documents\\GitHub\\test\\SoftwareSearch\\SoftwareSearch\\SoftwareSearch.csproj": {
+              "projectPath": "C:\\Users\\Acer\\Documents\\GitHub\\test\\SoftwareSearch\\SoftwareSearch\\SoftwareSearch.csproj"
             }
           }
         }

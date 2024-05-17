@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Acer\\Documents\\GitHub\\case_back_end_gijs\\SoftwareSearch\\SoftwareSearch\\SoftwareSearch.csproj": {}
+    "C:\\Users\\Acer\\Documents\\GitHub\\test\\SoftwareSearch\\SoftwareSearch\\SoftwareSearch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Acer\\Documents\\GitHub\\case_back_end_gijs\\SoftwareSearch\\SoftwareSearch\\SoftwareSearch.csproj": {
+    "C:\\Users\\Acer\\Documents\\GitHub\\test\\SoftwareSearch\\SoftwareSearch\\SoftwareSearch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Acer\\Documents\\GitHub\\case_back_end_gijs\\SoftwareSearch\\SoftwareSearch\\SoftwareSearch.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\Documents\\GitHub\\test\\SoftwareSearch\\SoftwareSearch\\SoftwareSearch.csproj",
         "projectName": "SoftwareSearch",
-        "projectPath": "C:\\Users\\Acer\\Documents\\GitHub\\case_back_end_gijs\\SoftwareSearch\\SoftwareSearch\\SoftwareSearch.csproj",
+        "projectPath": "C:\\Users\\Acer\\Documents\\GitHub\\test\\SoftwareSearch\\SoftwareSearch\\SoftwareSearch.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acer\\Documents\\GitHub\\case_back_end_gijs\\SoftwareSearch\\SoftwareSearch\\obj\\",
+        "outputPath": "C:\\Users\\Acer\\Documents\\GitHub\\test\\SoftwareSearch\\SoftwareSearch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

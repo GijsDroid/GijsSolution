@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v6bSLIGAXsGbk3OCZcXyeXveUTynHJbbiTj0JPpGNw5xPinZkW6oFkrYVv/pzVsN15PxIvbIcXYI74fu6srRvw==",
+  "dgSpecHash": "NELBywHHAraLf1WxSIZAjcBeuod348VJZzDVh+RW1Db9SMDqRx2tWZ0nQU5+efHq8RG7SX8TIxhd1Q6+NtMNbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Acer\\Documents\\GitHub\\case_back_end_gijs\\SoftwareSearch\\SoftwareSearchTests\\SoftwareSearchTests.csproj",
+  "projectFilePath": "C:\\Users\\Acer\\Documents\\GitHub\\test\\SoftwareSearch\\SoftwareSearchTests\\SoftwareSearchTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Acer\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

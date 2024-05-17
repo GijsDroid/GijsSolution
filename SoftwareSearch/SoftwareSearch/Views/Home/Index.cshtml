@@ -1,0 +1,46 @@
+﻿@model HomeViewModel
+@{
+	ViewData["Title"] = "Home Page";
+}
+@Html.AntiForgeryToken()
+<div class="text-center">
+	@using (Html.BeginForm())
+	{
+		<p>
+			Zoek: @Html.TextBox("SearchString")
+			<input type="submit" value="Search" />
+		</p>
+	}
+
+	@if (Model.Softwares.Any())
+	{
+		<table class="table">
+			<tr>
+				<th>
+					Naam
+				<th>
+					Software nummer
+				</th>
+			</tr>
+			@foreach (var item in Model.Softwares)
+			{
+				<tr>
+					<td>
+						@Html.DisplayFor(modelItem => item.Name)
+					</td>
+					<td>
+						@Html.DisplayFor(modelItem => item.Version)
+					</td>
+				</tr>
+			}
+
+		</table>
+	}
+	else
+	{
+		<p class="text-danger">
+			Geen software gevonden.
+		</p>
+	}
+
+</div>
